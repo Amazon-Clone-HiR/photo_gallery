@@ -19,6 +19,7 @@ from rest_framework_swagger.views import get_swagger_view
 
 urlpatterns = [
   path('admin/', admin.site.urls),
-  path('', get_swagger_view(title="Photo Gallery API")),
-  path('', include('api.urls'))
+  path('', include('api.urls')),
+  path('', include('frontend.urls')),
+  path('swagger/', get_swagger_view(title="Photo Gallery API")),
 ]
