@@ -1,14 +1,16 @@
 from django.test import TestCase
+from rest_framework.test import APITestCase
 from .models import Photo
 
 # Create your tests here.
-class PhotoTestCase(TestCase):
+class PhotoTestCase(APITestCase):
   def setUp(self):
-    Photo.objects.create(name="cat pic", src="kitty.jpg")
-    Photo.objects.create(name="cat pic 2.0", src="bigkitty.jpg")
-  
-  def test_assert_photos_are_created(self):
-    first = Photo.objects.get(name="cat pic")
-    second = Photo.objects.get(name="cat pic 2.0")
-    self.assertEqual(first.src, "kitty.jpg")
-    self.assertEqual(second.src, "bigkitty.jpg")
+    # post to test db so we can test GETs
+
+  def test_get_photos_by_item_id(self):
+    """
+    Ensure we can retrieve all pictures by the associated item_id
+    """
+    response = self.client.get('/api/items/4/photos/')
+    print(response.content)
+

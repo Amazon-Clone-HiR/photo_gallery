@@ -4,9 +4,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/aileni-tee-167899-unsplash.jpg",
-      "name": "donut_1",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 1
+      "item_id": 1,
+      "photo_name": "donut_1",
+      "item_name": "Boring_Donut"
     }
   },
   {
@@ -14,9 +15,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/al-hakiim-694141-unsplash.jpg",
-      "name": "donut_2",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 1
+      "item_id": 1,
+      "photo_name": "donut_2",
+      "item_name": "Boring_Donut"
     }
   },
   {
@@ -24,9 +26,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/alex-perez-649199-unsplash.jpg",
-      "name": "donut_3",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 1
+      "item_id": 1,
+      "photo_name": "donut_3",
+      "item_name": "Boring_Donut"
     }
   },
   {
@@ -34,9 +37,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/alice-pasqual-762175-unsplash.jpg",
-      "name": "donut_4",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 1
+      "item_id": 1,
+      "photo_name": "donut_4",
+      "item_name": "Boring_Donut"
     }
   },
   {
@@ -44,9 +48,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/allie-smith-762268-unsplash.jpg",
-      "name": "donut_5",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_5",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -54,9 +59,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/amy-shamblen-746539-unsplash.jpg",
-      "name": "donut_6",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_6",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -64,9 +70,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/amy-syiek-711672-unsplash.jpg",
-      "name": "donut_7",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_7",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -74,9 +81,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/andrea-tummons-460749-unsplash.jpg",
-      "name": "donut_8",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_8",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -84,9 +92,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/anita-klasanova-588339-unsplash.jpg",
-      "name": "donut_9",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_9",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -94,9 +103,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/anna-sullivan-687938-unsplash.jpg",
-      "name": "donut_10",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_10",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -104,9 +114,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/ashley-green-541122-unsplash.jpg",
-      "name": "donut_11",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_11",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -114,9 +125,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/bethany-newman-61417-unsplash.jpg",
-      "name": "donut_12",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_12",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -124,9 +136,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/branden-harvey-362115-unsplash.jpg",
-      "name": "donut_13",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_13",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -134,9 +147,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/branden-harvey-362116-unsplash.jpg",
-      "name": "donut_14",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 2
+      "item_id": 2,
+      "photo_name": "donut_14",
+      "item_name": "Donut_Tray"
     }
   },
   {
@@ -144,9 +158,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/brigitte-tohm-351797-unsplash.jpg",
-      "name": "donut_15",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 3
+      "item_id": 3,
+      "photo_name": "donut_15",
+      "item_name": "Donuts_On_Donuts"
     }
   },
   {
@@ -154,9 +169,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/callie-morgan-285242-unsplash.jpg",
-      "name": "donut_16",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 3
+      "item_id": 3,
+      "photo_name": "donut_16",
+      "item_name": "Donuts_On_Donuts"
     }
   },
   {
@@ -164,9 +180,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/conor-luddy-434491-unsplash.jpg",
-      "name": "donut_17",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 3
+      "item_id": 3,
+      "photo_name": "donut_17",
+      "item_name": "Donuts_On_Donuts"
     }
   },
   {
@@ -174,9 +191,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/court-prather-431857-unsplash.jpg",
-      "name": "donut_18",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_18",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -184,9 +202,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/court-prather-431861-unsplash.jpg",
-      "name": "donut_19",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_19",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -194,9 +213,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/court-prather-579576-unsplash.jpg",
-      "name": "donut_20",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_20",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -204,9 +224,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/court-prather-588076-unsplash.jpg",
-      "name": "donut_21",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_21",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -214,9 +235,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/cris-dinoto-412439-unsplash.jpg",
-      "name": "donut_22",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_22",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -224,9 +246,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/dani-rendina-1165237-unsplash.jpg",
-      "name": "donut_23",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_23",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -234,9 +257,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/dani-rendina-1165242-unsplash.jpg",
-      "name": "donut_24",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_24",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -244,9 +268,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/david-calderon-973701-unsplash.jpg",
-      "name": "donut_25",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 4
+      "item_id": 4,
+      "photo_name": "donut_25",
+      "item_name": "Zoo_Bear"
     }
   },
   {
@@ -254,9 +279,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/demi-felicia-vares-1116181-unsplash.jpg",
-      "name": "donut_26",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_26",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -264,9 +290,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/diogo-palhais-373020-unsplash.jpg",
-      "name": "donut_27",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_27",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -274,9 +301,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/edgar-chaparro-627143-unsplash.jpg",
-      "name": "donut_28",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_28",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -284,9 +312,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/eiliv-sonas-aceron-1134133-unsplash.jpg",
-      "name": "donut_29",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_29",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -294,9 +323,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/eiliv-sonas-aceron-1135672-unsplash.jpg",
-      "name": "donut_30",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_30",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -304,9 +334,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/elena-koycheva-774025-unsplash.jpg",
-      "name": "donut_31",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_31",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -314,9 +345,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/elena-koycheva-776269-unsplash.jpg",
-      "name": "donut_32",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_32",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -324,9 +356,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/elisheva-gohar-1199154-unsplash.jpg",
-      "name": "donut_33",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 5
+      "item_id": 5,
+      "photo_name": "donut_33",
+      "item_name": "Glaze_Daze"
     }
   },
   {
@@ -334,9 +367,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/emma-valerio-1060531-unsplash.jpg",
-      "name": "donut_34",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_34",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -344,9 +378,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/fischer-twins-511383-unsplash.jpg",
-      "name": "donut_35",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_35",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -354,9 +389,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/heather-schwartz-493953-unsplash+%281%29.jpg",
-      "name": "donut_36",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_36",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -364,9 +400,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/heather-schwartz-493953-unsplash.jpg",
-      "name": "donut_37",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_37",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -374,9 +411,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/heather-schwartz-799071-unsplash.jpg",
-      "name": "donut_38",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_38",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -384,9 +422,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/hello-i-m-nik-715979-unsplash.jpg",
-      "name": "donut_39",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_39",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -394,9 +433,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/hello-i-m-nik-715983-unsplash.jpg",
-      "name": "donut_40",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_40",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -404,9 +444,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/hrvoje-grubisic-376578-unsplash.jpg",
-      "name": "donut_41",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_41",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -414,9 +455,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/iryna-ogarkova-447661-unsplash.jpg",
-      "name": "donut_42",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_42",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -424,9 +466,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/james-bold-608989-unsplash.jpg",
-      "name": "donut_43",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 6
+      "item_id": 6,
+      "photo_name": "donut_43",
+      "item_name": "Choco_Choco_Chip"
     }
   },
   {
@@ -434,9 +477,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/jenna-day-309593-unsplash.jpg",
-      "name": "donut_44",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 7
+      "item_id": 7,
+      "photo_name": "donut_44",
+      "item_name": "Stretchy_Pants"
     }
   },
   {
@@ -444,9 +488,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/jessica-henderson-365335-unsplash.jpg",
-      "name": "donut_45",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 7
+      "item_id": 7,
+      "photo_name": "donut_45",
+      "item_name": "Stretchy_Pants"
     }
   },
   {
@@ -454,9 +499,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/jonathan-farber-1071239-unsplash.jpg",
-      "name": "donut_46",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 7
+      "item_id": 7,
+      "photo_name": "donut_46",
+      "item_name": "Stretchy_Pants"
     }
   },
   {
@@ -464,9 +510,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/jonathan-farber-655090-unsplash.jpg",
-      "name": "donut_47",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 7
+      "item_id": 7,
+      "photo_name": "donut_47",
+      "item_name": "Stretchy_Pants"
     }
   },
   {
@@ -474,9 +521,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/jordane-mathieu-1141218-unsplash.jpg",
-      "name": "donut_48",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 7
+      "item_id": 7,
+      "photo_name": "donut_48",
+      "item_name": "Stretchy_Pants"
     }
   },
   {
@@ -484,9 +532,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/joshua-ness-620524-unsplash.jpg",
-      "name": "donut_49",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_49",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -494,9 +543,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/katie-harp-pinterest-manager-1080626-unsplash.jpg",
-      "name": "donut_50",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_50",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -504,9 +554,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/kelly-neil-558205-unsplash.jpg",
-      "name": "donut_51",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_51",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -514,9 +565,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/kirsten-drew-782433-unsplash.jpg",
-      "name": "donut_52",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_52",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -524,9 +576,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/kyle-nieber-632060-unsplash.jpg",
-      "name": "donut_53",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_53",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -534,9 +587,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/kyle-nieber-634701-unsplash.jpg",
-      "name": "donut_54",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_54",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -544,9 +598,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/leighann-renee-503319-unsplash.jpg",
-      "name": "donut_55",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 8
+      "item_id": 8,
+      "photo_name": "donut_55",
+      "item_name": "Done_Zone"
     }
   },
   {
@@ -554,9 +609,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/leighann-renee-503320-unsplash.jpg",
-      "name": "donut_56",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_56",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -564,9 +620,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/linda-sondergaard-458590-unsplash.jpg",
-      "name": "donut_57",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_57",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -574,9 +631,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/linda-sondergaard-458602-unsplash.jpg",
-      "name": "donut_58",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_58",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -584,9 +642,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/marc-schafer-784959-unsplash.jpg",
-      "name": "donut_59",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_59",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -594,9 +653,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/marcus-wallis-673825-unsplash.jpg",
-      "name": "donut_60",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_60",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -604,9 +664,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/marisa-morton-545144-unsplash.jpg",
-      "name": "donut_61",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_61",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -614,9 +675,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/mihai-stefan-658815-unsplash.jpg",
-      "name": "donut_62",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_62",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -624,9 +686,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/nathan-dumlao-572051-unsplash.jpg",
-      "name": "donut_63",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_63",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -634,9 +697,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/nelly-karagania-1073219-unsplash.jpg",
-      "name": "donut_64",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_64",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -644,9 +708,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/patrick-fore-389431-unsplash.jpg",
-      "name": "donut_65",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 9
+      "item_id": 9,
+      "photo_name": "donut_65",
+      "item_name": "Sprankle_Top"
     }
   },
   {
@@ -654,9 +719,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rawpixel-651376-unsplash.jpg",
-      "name": "donut_66",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_66",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -664,9 +730,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rawpixel-656748-unsplash.jpg",
-      "name": "donut_67",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_67",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -674,9 +741,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rawpixel-669630-unsplash.jpg",
-      "name": "donut_68",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_68",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -684,9 +752,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rawpixel-743118-unsplash.jpg",
-      "name": "donut_69",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_69",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -694,9 +763,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/reinaldo-kevin-607918-unsplash.jpg",
-      "name": "donut_70",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_70",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -704,9 +774,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rod-long-492698-unsplash.jpg",
-      "name": "donut_71",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_71",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -714,9 +785,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rod-long-682633-unsplash.jpg",
-      "name": "donut_72",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_72",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -724,9 +796,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/rosalind-chang-658854-unsplash.jpg",
-      "name": "donut_73",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_73",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -734,9 +807,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-630666-unsplash.jpg",
-      "name": "donut_74",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_74",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -744,9 +818,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-630679-unsplash.jpg",
-      "name": "donut_75",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_75",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -754,9 +829,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-630711-unsplash.jpg",
-      "name": "donut_76",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_76",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -764,9 +840,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-630715-unsplash.jpg",
-      "name": "donut_77",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_77",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -774,9 +851,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-630722-unsplash.jpg",
-      "name": "donut_78",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_78",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -784,9 +862,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/s-o-c-i-a-l-c-u-t-732709-unsplash.jpg",
-      "name": "donut_79",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 10
+      "item_id": 10,
+      "photo_name": "donut_79",
+      "item_name": "Pity_Party_Kit"
     }
   },
   {
@@ -794,9 +873,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/samuel-yongbo-kwon-254178-unsplash.jpg",
-      "name": "donut_80",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_80",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -804,9 +884,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sandrachile-440696-unsplash.jpg",
-      "name": "donut_81",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_81",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -814,9 +895,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sharon-mccutcheon-532006-unsplash.jpg",
-      "name": "donut_82",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_82",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -824,9 +906,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sharon-mccutcheon-532018-unsplash.jpg",
-      "name": "donut_83",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_83",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -834,9 +917,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sharon-mccutcheon-569839-unsplash.jpg",
-      "name": "donut_84",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_84",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -844,9 +928,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sheelah-brennan-47005-unsplash.jpg",
-      "name": "donut_85",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 11
+      "item_id": 11,
+      "photo_name": "donut_85",
+      "item_name": "Kewl_Donut"
     }
   },
   {
@@ -854,9 +939,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sheri-silver-1188626-unsplash.jpg",
-      "name": "donut_86",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_86",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -864,9 +950,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/siora18-714517-unsplash.jpg",
-      "name": "donut_87",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_87",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -874,9 +961,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/stanislav-kondratiev-123540-unsplash.jpg",
-      "name": "donut_88",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_88",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -884,9 +972,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/stoica-ionela-530967-unsplash.jpg",
-      "name": "donut_89",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_89",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -894,9 +983,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/sultan-alauddin-1240731-unsplash.jpg",
-      "name": "donut_90",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_90",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -904,9 +994,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/svetlana-sidorenko-564526-unsplash.jpg",
-      "name": "donut_91",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_91",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -914,9 +1005,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/tess-535882-unsplash.jpg",
-      "name": "donut_92",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_92",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -924,9 +1016,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/the-creative-exchange-350584-unsplash.jpg",
-      "name": "donut_93",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_93",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -934,9 +1027,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/thomas-kelley-77413-unsplash.jpg",
-      "name": "donut_94",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_94",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -944,9 +1038,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/toa-heftiba-250942-unsplash.jpg",
-      "name": "donut_95",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 12
+      "item_id": 12,
+      "photo_name": "donut_95",
+      "item_name": "Mochachino"
     }
   },
   {
@@ -954,9 +1049,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/tom-grimbert-788775-unsplash.jpg",
-      "name": "donut_96",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 13
+      "item_id": 13,
+      "photo_name": "donut_96",
+      "item_name": "Jelly_Filler"
     }
   },
   {
@@ -964,9 +1060,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/tracy-adams-1156498-unsplash.jpg",
-      "name": "donut_97",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 13
+      "item_id": 13,
+      "photo_name": "donut_97",
+      "item_name": "Jelly_Filler"
     }
   },
   {
@@ -974,9 +1071,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/whitney-wright-282068-unsplash.jpg",
-      "name": "donut_98",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 13
+      "item_id": 13,
+      "photo_name": "donut_98",
+      "item_name": "Jelly_Filler"
     }
   },
   {
@@ -984,9 +1082,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/zach-miles-229108-unsplash.jpg",
-      "name": "donut_99",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 13
+      "item_id": 13,
+      "photo_name": "donut_99",
+      "item_name": "Jelly_Filler"
     }
   },
   {
@@ -994,9 +1093,10 @@
     "model": "api.photo",
     "fields": {
       "src": "https://s3.amazonaws.com/hir-fec-photos/donuts/zhifei-zhou-28092-unsplash.jpg",
-      "name": "donut_100",
       "created_at": "2018-12-30 16:02:30.64618-06",
-      "item_id": 13
-   
-      }}
+      "item_id": 13,
+      "photo_name": "donut_100",
+      "item_name": "Jelly_Filler"
+    }
+  }
 ]
