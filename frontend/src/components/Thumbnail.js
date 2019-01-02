@@ -4,12 +4,22 @@ import styled from "styled-components";
 
 const ThumbnailImage = styled.img`
   width: 100%;
-  border: 1px solid #888;
+  border: 1px solid ${props => (props.selected ? "#e77600" : "#111")};
   border-radius: 3px;
+  box-shadow: ${props => (props.selected ? "0 0 5px #e77600" : "none")};
+
+  &:hover {
+    cursor: pointer;
+  }
 `;
 
-const Thumbnail = ({ photo, onHover }) => (
-  <ThumbnailImage src={photo.src} alt={photo.name} onMouseOver={onHover} />
+const Thumbnail = ({ photo, onHover, selected }) => (
+  <ThumbnailImage
+    src={photo.src}
+    alt={photo.name}
+    onMouseOver={onHover}
+    selected={selected}
+  />
 );
 
 Thumbnail.propTypes = {

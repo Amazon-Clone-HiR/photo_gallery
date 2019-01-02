@@ -5,6 +5,7 @@ import styled from "styled-components";
 const SelectedImage = styled.img`
   max-height: 100%;
   max-width: 100%;
+  object-fit: contain;
 `;
 
 const Selected = ({ photo }) => (

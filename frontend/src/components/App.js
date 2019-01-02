@@ -7,7 +7,7 @@ import Selected from "./Selected";
 
 const Gallery = styled.div`
   display: grid;
-  grid-template-columns: 1fr 6fr;
+  grid-template-columns: 1fr 5fr;
   grid-template-rows: 50vh;
   grid-column-gap: 10px;
   max-width: 50%;
@@ -15,6 +15,7 @@ const Gallery = styled.div`
 
 const ThumbnailContainer = styled.div`
   overflow-y: scroll;
+  padding: 0 5px;
 `;
 
 const SelectedContainer = styled.div`
@@ -49,6 +50,7 @@ const App = () => {
               index={i}
               photo={photo}
               onHover={() => setSelectedPhoto(photos[i])}
+              selected={selectedPhoto === photo}
             />
           ))}
         </ThumbnailContainer>
