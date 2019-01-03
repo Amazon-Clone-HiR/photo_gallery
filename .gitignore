@@ -1,3 +1,4 @@
 node_modules
 data.json
-*.pyc
+api/__pycache__/*
+photo_api/settings.py

@@ -21,5 +21,5 @@ urlpatterns = [
   path('admin/', admin.site.urls),
   path('items/', include('frontend.urls')),
   path('api/', include('api.urls')),
-  path('swagger/', get_swagger_view(title="Photo Gallery API")),
+  path('', get_swagger_view(title="Photo Gallery API")),
 ]
