@@ -31,7 +31,7 @@ const App = () => {
   const [selectedPhoto, setSelectedPhoto] = useState(null);
 
   useEffect(() => {
-    axios("/api/items/4/")
+    axios("/api/items/ecbe7295-0dc7-4066-bd3d-9db36e26d64e/")
       .then(({ data }) => {
         setPhotos(data);
         setSelectedPhoto(data[0]);
